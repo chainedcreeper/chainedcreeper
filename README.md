@@ -5,6 +5,7 @@ AI와 함께 배우고 만드는 중입니다.
 ## 🔭 Projects
 | 프로젝트 | 설명 |
 |---|---|
+| [shumpyo-ai](https://github.com/chainedcreeper/shumpyo-ai) | 쉼표 AI — 개인 맞춤 수면·스트레스 코치 ([앱 보기](https://chainedcreeper.github.io/shumpyo-ai/)) |
 | [nuri-rocket](https://github.com/chainedcreeper/nuri-rocket) | 누리호(KSLV-II) 자료 정리 · PPT · 인터랙티브 웹사이트 ([사이트 보기](https://chainedcreeper.github.io/nuri-rocket/)) |
 
 ## 🛠 Tools
